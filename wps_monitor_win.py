@@ -7,7 +7,7 @@ import time
 
 # --- Configuration ---
 # 重要：请使用反斜杠'\\'或正斜杠'/'作为路径分隔符
-FILE_TO_MONITOR = "C:/Users/YourUser/path/to/your/test.xlsx" # <--- 请务必修改为你的实际文件路径
+FILE_TO_MONITOR = "test.xlsx" # <--- 请务必修改为你的实际文件路径
 LOG_FILE = "excel_monitor.log"
 
 # --- Setup Logging ---

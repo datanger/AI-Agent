@@ -1,0 +1,5 @@
+2025-07-29 17:23:20,349 - ERROR - File not found: C:\Users\YourUser\path\to\your\test.xlsx
+2025-07-29 17:23:20,349 - INFO - WPS monitor shut down.
+2025-07-29 17:23:32,300 - INFO - Connecting to WPS Spreadsheets (ET)...
+2025-07-29 17:23:32,300 - ERROR - Failed to connect to WPS. Is it installed correctly? Error: (-2147221005, '无效的类字符串', None, None)
+2025-07-29 17:23:32,300 - INFO - WPS monitor shut down.
